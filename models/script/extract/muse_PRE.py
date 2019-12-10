@@ -16,7 +16,7 @@ def rm_main():
 	for element in VisualArtEvent:
 		keyPArt.add_keyword(element)
 
-	url = 'https://raw.githubusercontent.com/andreamatt/KDI/master/dataset/muse.json'
+	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/muse.json'
 	obj = json.loads(requests.get(url).text)
 	eventsArray = obj["events"]
 	while {} in eventsArray:

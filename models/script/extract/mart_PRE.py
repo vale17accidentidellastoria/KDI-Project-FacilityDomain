@@ -8,7 +8,7 @@ exec(utils_txt)
 
 
 def rm_main():
-	url = 'https://raw.githubusercontent.com/andreamatt/KDI/master/dataset/mart.json'
+	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/mart.json'
 	mart = json.loads(requests.get(url).text)
 
 	dictionary = {

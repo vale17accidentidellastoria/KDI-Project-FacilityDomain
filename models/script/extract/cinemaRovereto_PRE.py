@@ -13,7 +13,7 @@ def fill_event(e):
 
 
 def rm_main():
-	url = 'https://raw.githubusercontent.com/andreamatt/KDI/master/dataset/cinemaRovereto.json'
+	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/cinemaRovereto.json'
 	obj = json.loads(requests.get(url).text)
 	info = {
 	    'location': "Piazza Rosmini 18/A. Rovereto (TN)",
