@@ -4,8 +4,8 @@ import requests
 
 
 def rm_main(JSONString):
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/format.json', 'w') as outfile:
-		json.dump(json.loads(JSONString), outfile, indent="\t")
+#	with open('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/DBG/format.json', 'w') as outfile:
+#		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	obj = json.loads(JSONString)
 	movies = []

@@ -3,13 +3,13 @@ import json
 import pandas as pd
 import requests
 
-utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
 exec(utils_txt)
 
 
 def rm_main(JSONString):
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/structure.json', 'w') as outfile:
-		json.dump(json.loads(JSONString), outfile, indent="\t")
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/structure.json', 'w') as outfile:
+#		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	events = {}
 	mart = json.loads(JSONString)

@@ -7,8 +7,8 @@ import re
 
 
 def rm_main(JSONString):
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/movie_details.json', 'w') as outfile:
-		json.dump(json.loads(JSONString), outfile, indent="\t")
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/movie_details.json', 'w') as outfile:
+#		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	obj = json.loads(JSONString)
 	api_key = 'AIzaSyDLEU6MpVGA5Pi4Kh44p7Jmt_nkAWY8kbE'

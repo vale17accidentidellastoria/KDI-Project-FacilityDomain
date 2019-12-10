@@ -2,7 +2,7 @@ import json
 import requests
 from pandas import DataFrame as DF
 
-utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
 exec(utils_txt)
 
 
