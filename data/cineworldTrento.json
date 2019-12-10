@@ -1,0 +1,865 @@
+{
+    "Link": "https://cineworld.18tickets.it/",
+    "Contact": "+39 0461 983237",
+    "movies": [
+        {
+            "Link": "https://cineworld.18tickets.it/film/5542",
+            "title": "V.O. MIDWAY",
+            "description": "The story of the Battle of Midway, told by the leaders and the sailors who fought it. MOVIE IN ENGLISH",
+            "genre": " Guerra, Storico",
+            "length": "Durata: 138",
+            "schedule": [
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5543",
+            "title": "V.O. FROZEN II",
+            "description": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. MOVIE IN ENGLISH",
+            "genre": " Animazione, Avventura",
+            "length": "Durata: 103",
+            "schedule": [
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:45"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5515",
+            "title": "I FIGLI DEL MARE (KAIJU NO KODOMO)",
+            "description": "La storia di Ruka, liceale ribelle esclusa dall'attività del club di pallamano per l'intera durata delle vacanze scolastiche. Ruka decide così di partire per trascorrere una giornata a Tokyo. Ma, al calare della notte, farà uno strano incontro con Umi e Sora, due ragazzi stranieri cresciuti fra strani e straordinari segreti... EVENTO ANIME",
+            "genre": " Animazione",
+            "length": "Durata: 111",
+            "schedule": [
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30 ANIME"
+                        },
+                        {
+                            "hour": "19:45 ANIME"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "18:00 ANIME"
+                        },
+                        {
+                            "hour": "21:00 ANIME"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5545",
+            "title": "WESTERN STARS",
+            "description": "La trasposizione cinematografica dell'omonimo album del Boss. Debutto alla regia dello stesso Bruce Springsteen. Evento al cinema solo il 2 - 3 - 4 dicembre 2019",
+            "genre": " Musicale",
+            "length": "Durata: 83",
+            "schedule": [
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "20:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5526",
+            "title": "MIDWAY",
+            "description": "Una spettacolare rievocazione della leggendaria battaglia che, nel corso della Seconda Guerra Mondiale, determinò una svolta decisiva per il conflitto bloccando nel Pacifico l'avanzata nipponica, cambiando il corso della guerra.",
+            "genre": " Guerra, Storico",
+            "length": "Durata: 138",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:20"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:20"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "16:00"
+                        },
+                        {
+                            "hour": "19:30"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "16:00"
+                        },
+                        {
+                            "hour": "18:45"
+                        },
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:20"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5445",
+            "title": "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)",
+            "description": "Elsa, Anna, Kristoff, Olaf e Sven si spingono all’interno della foresta per scoprire la verità su di un antico mistero del loro regno.",
+            "genre": " Animazione, Avventura",
+            "length": "Durata: 103",
+            "schedule": [
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30 3D"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:40 3D"
+                        },
+                        {
+                            "hour": "17:50 3D"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:00 3D"
+                        },
+                        {
+                            "hour": "17:15 3D"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30 3D LUNEDI"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30 3D"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "18:00 3D"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5444",
+            "title": "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)",
+            "description": "Elsa, Anna, Kristoff, Olaf e Sven si spingono all’interno della foresta per scoprire la verità su di un antico mistero del loro regno.",
+            "genre": " Animazione, Avventura",
+            "length": "Durata: 103",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "20:45"
+                        },
+                        {
+                            "hour": "19:45"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:45"
+                        },
+                        {
+                            "hour": "20:45"
+                        },
+                        {
+                            "hour": "19:45"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Cinema Teatro Nuovo Roma",
+                    "time": [
+                        {
+                            "hour": "17:00"
+                        },
+                        {
+                            "hour": "19:15"
+                        },
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Corso III Novembre, 35 – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Cinema Teatro Nuovo Roma",
+                    "time": [
+                        {
+                            "hour": "15:45"
+                        },
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "20:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Corso III Novembre, 35 – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:45"
+                        },
+                        {
+                            "hour": "20:45"
+                        },
+                        {
+                            "hour": "19:45"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Cinema Teatro Nuovo Roma",
+                    "time": [
+                        {
+                            "hour": "17:45"
+                        },
+                        {
+                            "hour": "20:45"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Corso III Novembre, 35 – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Cinema Teatro Nuovo Roma",
+                    "time": [
+                        {
+                            "hour": "17:45"
+                        },
+                        {
+                            "hour": "20:45"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Corso III Novembre, 35 – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5479",
+            "title": "CETTO C'E', SENZADUBBIAMENTE",
+            "description": "A dieci anni dalla sua elezione a sindaco di Marina di Sopra di Cetto la Qualunque si erano perse le tracce. Scopriamo che vive in Germania e, messa da parte ogni ambizione politica, Cetto la Qualunque oggi per i tedeschi è soltanto un irresistibile e pittoresco imprenditore di successo, che considera la Germania una terra di conquiste e la mafia un marchio di qualità.",
+            "genre": " Commedia",
+            "length": "Durata: 91",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        },
+                        {
+                            "hour": "19:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        },
+                        {
+                            "hour": "20:00"
+                        },
+                        {
+                            "hour": "22:15"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "16:50"
+                        },
+                        {
+                            "hour": "19:30"
+                        },
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        },
+                        {
+                            "hour": "19:30"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "22:10"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5478",
+            "title": "L'UFFICIALE E LA SPIA (J'ACCUSE)",
+            "description": "Il famoso caso Dreyfus che sconvolse l'opinione pubblica francese alla fine del XIX secolo.",
+            "genre": " Drammatico",
+            "length": "Durata: 132",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "16:40"
+                        },
+                        {
+                            "hour": "19:20"
+                        },
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "17:00"
+                        },
+                        {
+                            "hour": "20:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                },
+                {
+                    "day": "Mercoledì 04",
+                    "location": "Trento - Supercinema Vittoria",
+                    "time": [
+                        {
+                            "hour": "18:00"
+                        },
+                        {
+                            "hour": "21:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Via Manci, 72 – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5423",
+            "title": "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)",
+            "description": "Carroll Shelby è il pilota che nel '59 ha vinto la 24 ore di Le Mans, la più ardua delle gare automobilistiche. Quando scopre di non poter più correre, si dedica a progettare auto insieme all’amico Ken Miles. Insieme accetteranno la sfida targata Ford di sconfiggere la Ferrari e si batteranno per vincere una nuova 24 ore, a bordo di un nuovo veicolo messo a punto da loro stessi.",
+            "genre": " Drammatico, Azione",
+            "length": "Durata: 152",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "18:40"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Martedì 03",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5420",
+            "title": "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)",
+            "description": "La vita della piccola renna Ailo raccontata in sedici mesi e quattro stagioni, dal parto in primavera alla pubertà, attraverso paesaggi incontaminati e primitivi abitati da animali fantastici. E spesso, come scoprirà Ailo, molto pericolosi.",
+            "genre": " Avventura",
+            "length": "Durata: 86",
+            "schedule": [
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:40"
+                        },
+                        {
+                            "hour": "17:40"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:00"
+                        },
+                        {
+                            "hour": "16:50"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Lunedì 02",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "17:30"
+                        }
+                    ],
+                    "Price": "5,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5369",
+            "title": "LE RAGAZZE DI WALL STREET (HUSTLERS)",
+            "description": "Un gruppo di spogliarelliste, capeggiate dalla madre single Ramona, decidono di unirsi per attuare un'elaborata truffa ai danni di facoltosi clienti, per lo più broker di Wall Street.",
+            "genre": " Commedia",
+            "length": "Durata: 110",
+            "schedule": [
+                {
+                    "day": "Giovedì 28",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "21:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5307",
+            "title": "LA FAMIGLIA ADDAMS (THE ADDAMS FAMILY)",
+            "description": "La famiglia Addams deve affrontare Margaux Needler, una subdola conduttrice di reality televisivi \"consumata dal desiderio dell'assoluta perfezione color pastello della vita suburbana\". Ciò accade mentre gli Addams si apprestano a ricevere i parenti per un'importante riunione di famiglia.",
+            "genre": " Animazione",
+            "length": "Durata: 86",
+            "schedule": [
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:40"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Domenica 01",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "15:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        },
+        {
+            "Link": "https://cineworld.18tickets.it/film/5079",
+            "title": "JOKER",
+            "description": "Arthur Fleck vive con l'anziana madre in un palazzone fatiscente e sbarca il lunario facendo pubblicità per la strada travestito da clown, in attesa di avere il giusto materiale per realizzare il desiderio di fare il comico. La sua vita, però, è una tragedia: ignorato, calpestato, bullizzato, preso in giro da da chiunque, ha sviluppato un tic nervoso che lo fa ridere a sproposito incontrollabilmente, rendendolo inquietante e allontanando ulteriormente da lui ogni possibile relazione sociale.",
+            "genre": " Drammatico, Thriller",
+            "length": "Durata: 122",
+            "schedule": [
+                {
+                    "day": "Venerdì 29",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "22:00"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                },
+                {
+                    "day": "Sabato 30",
+                    "location": "Trento - Multisala G. Modena",
+                    "time": [
+                        {
+                            "hour": "19:30"
+                        }
+                    ],
+                    "Price": "8,50 €",
+                    "Address": "Viale S. F. d’Assisi, 8/a – Trento"
+                }
+            ]
+        }
+    ]
+}

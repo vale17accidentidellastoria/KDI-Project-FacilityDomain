@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Mart Membership",
+        "category": "evento",
+        "date": "marted\u00ec\u00a012\/11\u00a0",
+        "time": "Undefined",
+        "comment": "Appuntamento annuale riservato alle categorie Membership aventi diritto. Informazioni: membership@mart.tn.it.",
+        "location": null
+    },
+    {
+        "name": "Focus Collezioni\nBernardo Strozzi e Yves Klein",
+        "category": "evento",
+        "date": "mercoled\u00ec\u00a013\/11\u00a0",
+        "time": "10:00\u00a0-\u00a017:00",
+        "comment": "Restauro della pala d'altare di Strozzi esposta nelle Collezioni, condotto in accordo con la Diocesi di Trento. Orario al pubblico: 10.00 - 13.00 \/ 14.00 - 17.00. Info: eventi@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    },
+    {
+        "name": "Mente e cervello nel sogno ordinario e nel sogno lucido",
+        "category": "incontro",
+        "date": "gioved\u00ec\u00a014\/11\u00a0",
+        "time": "20:30\u00a0-\u00a022:00",
+        "comment": "Incontro della serie \u201cIo, l\u2019arte e il sogno\u201d, organizzata in collaborazione con Dipartimento di Scienze Cognitive Unitn e Associazione URLA, a cura di Nicola De Pisapia. Prenotazioni: education@mart.tn.it.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "Mart Blabla Deutsch",
+        "category": "incontro",
+        "date": "venerd\u00ec\u00a015\/11\u00a0",
+        "time": "18:00\u00a0-\u00a019:30",
+        "comment": "Parlare tedesco tra le opere del museo con la mediatrice madrelingua Petra Scholer. Costo: \u20ac 5. Prenotazioni: education@mart.tn.it - 0464 454135\/108.",
+        "location": "Mart, sale espositive"
+    },
+    {
+        "name": "Mart by Night\nUn disegno tra le mani",
+        "category": "workshop",
+        "date": "venerd\u00ec\u00a015\/11\u00a0",
+        "time": "20:00\u00a0-\u00a022:00",
+        "comment": "Workshop di sperimentazione grafica con l\u2019artista David Aaron Angeli.\nCosto: \u20ac 10 ( \u20ac 7 ridotto). Prenotazioni: education@mart.tn.it - 0464 454135-108.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "Aperitivo inDanza\nSarajevo - La strage dell'uomo tranquillo\n\u00a0",
+        "category": "evento",
+        "date": "venerd\u00ec\u00a015\/11\u00a0",
+        "time": "20:00\u00a0-\u00a021:00",
+        "comment": "Performance di Gennaro Andrea Lauro, in collaborazione con Centro Servizi S. Chiara. A seguire aperitivo con Altemasi. Ingresso con biglietto Mart o biglietto dello spettacolo di Alessandro Sciarroni all'Auditorium Melotti. Info: eventi@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    },
+    {
+        "name": "Isadora Duncan",
+        "category": "visita guidata",
+        "date": "domenica\u00a017\/11\u00a0",
+        "time": "15:00\u00a0-\u00a016:00",
+        "comment": "Visita guidata alla mostra Danzare la rivoluzione. Isadora Duncan e  le arti figurative in Italia tra Ottocento e avanguardia. Costo: \u20ac 2.  Acquistabile il giorno stesso, dalle ore 14.00, in biglietteria. Info: education@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    },
+    {
+        "name": "Little Mart\nIl libro delle nuvole",
+        "category": "laboratorio",
+        "date": "domenica\u00a017\/11\u00a0",
+        "time": "15:00\u00a0-\u00a016:30",
+        "comment": "In occasione del Festival della meteorologia il laboratorio si dedica alle varie forme delle nuvole. Dai 5 ai 12 anni. Costo: \u20ac 5. Prenotazione: education@mart.tn.it - 0464 454135\/108. Sab. e dom. 0464 438887.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "Focus Collezioni\nBernardo Strozzi e Yves Klein",
+        "category": "evento",
+        "date": "mercoled\u00ec\u00a020\/11\u00a0",
+        "time": "10:00\u00a0-\u00a017:00",
+        "comment": "Restauro della pala d'altare di Strozzi esposta nelle Collezioni, condotto in accordo con la Diocesi di Trento. Orario al pubblico: 10.00 - 13.00 \/ 14.00 - 17.00. Info: eventi@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    },
+    {
+        "name": "La citt\u00e0 di tutti",
+        "category": "laboratorio",
+        "date": "mercoled\u00ec\u00a020\/11\u00a0",
+        "time": "16:00\u00a0-\u00a018:00",
+        "comment": "Laboratorio in occasione del trentennale della convenzione ONU sui Diritti dell'Infanzia e dell'Adolescenza. Partecipazione gratuita senza prenotazione. Dai 6 ai 14 anni. Info: education@mart.tn.it.",
+        "location": "Muse, Trento"
+    },
+    {
+        "name": "Aspetti giuridici e responsabilit\u00e0 genitoriale della violenza domestica",
+        "category": "conferenza",
+        "date": "gioved\u00ec\u00a021\/11\u00a0",
+        "time": "17:00\u00a0-\u00a019:00",
+        "comment": "Falenablu propone una formazione con la scrittrice Agnello Hornby, in collaborazione con Aiaf Trento. Valida ai fini della formazione. Gratuito, prenotazione obbligatoria email: education@mart.trento.it.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "\"Credevo che\" o della violenza domestica",
+        "category": "evento",
+        "date": "gioved\u00ec\u00a021\/11\u00a0",
+        "time": "20:30",
+        "comment": "Reading in musica di Simonetta Agnello Hornby e Filomena Campus. A cura dell\u2019associazione FalenaBlu, in collaborazione con Aiaf Trento. Partecipazione gratuita. Info: eventi@mart.tn.it.",
+        "location": "Mart, Sala conferenze"
+    },
+    {
+        "name": "Trasformare il sogno in arte: la pratica del Dream Tending",
+        "category": "incontro",
+        "date": "gioved\u00ec\u00a021\/11\u00a0",
+        "time": "20:30\u00a0-\u00a022:00",
+        "comment": "Incontro della serie \u201cIo, l\u2019arte e il sogno\u201d, organizzata in collaborazione con Dipartimento di Scienze Cognitive Unitn e Associazione URLA, a cura di Gabriele Penazzi. Prenotazioni: education@mart.tn.it.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "Mart Membership\nIntermedia",
+        "category": "incontro",
+        "date": "venerd\u00ec\u00a022\/11\u00a0",
+        "time": "10:00",
+        "comment": "Preview alla mostra Intermedia. Archivio di Nuova Scrittura. La Collezione di Paolo Della Grazia. Informazioni e prenotazioni: membership@mart.tn.it, 0464.454169 (entro il 20 novembre).",
+        "location": "Mart, Rovereto"
+    },
+    {
+        "name": "Mart Opening\nIntermedia",
+        "category": "inaugurazione",
+        "date": "venerd\u00ec\u00a022\/11\u00a0",
+        "time": "11:00\u00a0-\u00a012:00",
+        "comment": "Una mostra prodotta con Museion sull\u2019Archivio di Nuova Scrittura (ANS), la collezione di Paolo Della Grazia dedicata alle ricerche tra parola e immagine nel Novecento. Partecipazione gratuita. Info: eventi@mart.tn.it.",
+        "location": "Mart, Rovereto"
+    },
+    {
+        "name": "L\u2019arte della fuga.\nIncontro con Gary Bartz + Maisha",
+        "category": "evento",
+        "date": "sabato\u00a023\/11\u00a0",
+        "time": "18:00",
+        "comment": "Per la rassegna Arcipelago Suite, uno dei concerti jazz pi\u00f9 attesi della stagione. Progetto a cura di Francesca Aste per il Centro Servizi Culturali S. Chiara, in collaborazione con Jazz'About. Info: pinfo@centrosantachiara.it.",
+        "location": "Mart, Rovereto"
+    },
+    {
+        "name": "Little Mart\nIl colore \u00e8 nell'aria",
+        "category": "laboratorio",
+        "date": "domenica\u00a024\/11\u00a0",
+        "time": "15:00\u00a0-\u00a016:30",
+        "comment": "Il colore: pigmenti da spargere come zucchero a velo e bolle di sapone che lasciano magiche impronte. Dai 3 ai 10 anni. Costo: \u20ac 5. Prenotazioni.: education@mart.tn.it - 0464 454135\/108. Sab. e dom. 0464 438887.",
+        "location": "Mart, Area educazione"
+    },
+    {
+        "name": "Isadora Duncan",
+        "category": "visita guidata",
+        "date": "domenica\u00a024\/11\u00a0",
+        "time": "15:00\u00a0-\u00a016:00",
+        "comment": "Visita guidata alla mostra Danzare la rivoluzione. Isadora Duncan e  le arti figurative in Italia tra Ottocento e avanguardia. Costo: \u20ac 2.  Acquistabile il giorno stesso, dalle ore 14.00, in biglietteria. Info: education@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    },
+    {
+        "name": "Rassegna Settearti\nLa scomparsa di mia madre",
+        "category": "cinema",
+        "date": "marted\u00ec\u00a026\/11\u00a0",
+        "time": "21:00",
+        "comment": "Un film dedicato alla vita di Benedetta Barzini, modella iconica degli anni '60. Proiezione a cura di Centro S. Chiara. Costo: \u20ac 5 (\u20ac 3 con tessera Cineforum Rovereto). Info: pinfo@centrosantachiara.it.",
+        "location": "\r\nAuditorium Melotti, Rovereto"
+    },
+    {
+        "name": "Focus Collezioni\nBernardo Strozzi e Yves Klein",
+        "category": "evento",
+        "date": "mercoled\u00ec\u00a027\/11\u00a0",
+        "time": "10:00\u00a0-\u00a017:00",
+        "comment": "Restauro della pala d'altare di Strozzi esposta nelle Collezioni, condotto in accordo con la Diocesi di Trento. Orario al pubblico: 10.00 - 13.00 \/ 14.00 - 17.00. Info: eventi@mart.tn.it.",
+        "location": "Mart, Sale espositive"
+    }
+]
