@@ -14,7 +14,7 @@ FIELDS = [
 
 DETAILS_FIELDS = ','.join(FIELDS)
 
-utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
 exec(utils_txt)
 
 
@@ -118,8 +118,8 @@ def place_details_ALL():
 
 
 def rm_main(eventsJSON):
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/geocoding.json', 'w') as outfile:
-		json.dump(json.loads(eventsJSON), outfile, indent='\t')
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/geocoding.json', 'w') as outfile:
+#		json.dump(json.loads(eventsJSON), outfile, indent='\t')
 
 	#locations = [loc for loc in list(events.loc[:, "locationName"]) if str(loc) != 'nan']
 	events = json.loads(eventsJSON)
@@ -132,8 +132,8 @@ def rm_main(eventsJSON):
 	# to make locations unique
 	locations = list(set(locations))
 
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/locationsToSearch.json', 'w') as outfile:
-		json.dump(locations, outfile, indent='\t')
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/locationsToSearch.json', 'w') as outfile:
+#		json.dump(locations, outfile, indent='\t')
 
 	for t in event_types:
 		for e in events[t]:
@@ -149,12 +149,12 @@ def rm_main(eventsJSON):
 
 	place_details_ALL()
 
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_errors.json', 'w') as outfile:
-		json.dump(errors, outfile, indent="\t")
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_details.json', 'w') as outfile:
-		json.dump(details_results, outfile, indent="\t")
-	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_no_results.json', 'w') as outfile:
-		json.dump(no_results, outfile, indent="\t")
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_errors.json', 'w') as outfile:
+#		json.dump(errors, outfile, indent="\t")
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_details.json', 'w') as outfile:
+#		json.dump(details_results, outfile, indent="\t")
+#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_no_results.json', 'w') as outfile:
+#		json.dump(no_results, outfile, indent="\t")
 
 	for searched_name, result in details_results.items():
 		fac = {}
