@@ -24,7 +24,6 @@ def rm_main(JSONString):
 		"exhibition,"                                 : "GeneralEvent",
 		"exhibition,Art exhibition,"                  : "VisualArtsEvent",
 		"exhibition,Photographic exhibition,"         : "VisualArtsEvent",
-		
 	}
 	cultura = json.loads(JSONString)
 	events = {}
