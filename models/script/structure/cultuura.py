@@ -4,11 +4,8 @@ import re
 import pandas as pd
 import requests
 
-classes_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/structure/classes.py').text
-exec(classes_txt)
-constants_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/constants.py').text
-exec(constants_txt)
-
+utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+exec(utils_txt)
 
 def rm_main(JSONString):
 	dictionary = {
