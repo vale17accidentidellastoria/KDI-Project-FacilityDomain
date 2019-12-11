@@ -207,7 +207,7 @@
       </operator>
       <operator activated="true" class="multiply" compatibility="9.5.001" expanded="true" height="103" name="Music" width="90" x="1117" y="340"/>
       <operator activated="true" class="write_csv" compatibility="9.5.001" expanded="true" height="82" name="Music csv" width="90" x="1251" y="391">
-        <parameter key="csv_file" value="C:/Users/andre/Desktop/kdi/scraping/KDI/output/music.csv"/>
+        <parameter key="csv_file" value="/output/music.csv"/>
         <parameter key="column_separator" value=","/>
         <parameter key="write_attribute_names" value="true"/>
         <parameter key="quote_nominal_values" value="true"/>
