@@ -64,7 +64,7 @@ def rm_main(JSONString):
 						endTime = tmp[1].replace('.', ':')
 						
 				gen = GeneralEvent(e['name'], e['costi'], e['description'], e['href'], '', '', '', location)
-				time = Time(startDate, endDate, startTime, endTime)
+				time = DateTime(startDate, endDate, startTime, endTime)
 				
 				event = {}
 				for k, v in gen.items():
