@@ -9,18 +9,18 @@ exec(utils_txt)
 
 def rm_main(JSONString):
 	dictionary = {
-		"Cultural exhibitions and events,"            : "GeneralEvent",
-		"Cultural exhibitions and events,Guided tour,": "GeneralEvent",
-		"Dance,Opera and modern ballet,"              : "TheatreEvent",
-		"Drama,"                                      : "TheatreEvent",
-		"Meetings and conferences,"                   : "TalkEvent",
-		"Meetings and conferences,Workshop,"          : "ScienceEvent",
-		"Music,"                                      : "MusicEvent",
-		"Music,Classical music concert,"              : "MusicEvent",
-		"Music,Jazz concert,"                         : "MusicEvent",
-		"exhibition,"                                 : "GeneralEvent",
-		"exhibition,Art exhibition,"                  : "VisualArtsEvent",
-		"exhibition,Photographic exhibition,"         : "VisualArtsEvent",
+		"Cultural exhibitions and events,"            : general,
+		"Cultural exhibitions and events,Guided tour,": general,
+		"Dance,Opera and modern ballet,"              : theatre,
+		"Drama,"                                      : theatre,
+		"Meetings and conferences,"                   : talk,
+		"Meetings and conferences,Workshop,"          : science,
+		"Music,"                                      : music,
+		"Music,Classical music concert,"              : music,
+		"Music,Jazz concert,"                         : music,
+		"exhibition,"                                 : general,
+		"exhibition,Art exhibition,"                  : visual,
+		"exhibition,Photographic exhibition,"         : visual,
 	}
 	cultura = json.loads(JSONString)
 	events = {}
