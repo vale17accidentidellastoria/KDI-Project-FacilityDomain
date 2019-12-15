@@ -57,9 +57,9 @@ the *models/* folder contains:
     * *Process.rmp*: RapidMiner Project file
 
 ## Procedure
-* load *Process.rmp* and run it. The output CSV files will appear on output folder.
+* load *Process.rmp* in RapidMiner and run it. The output CSV files will appear on output folder.
 * 
- 
+
 ## Team Members
 
 #### Model Subgroup
