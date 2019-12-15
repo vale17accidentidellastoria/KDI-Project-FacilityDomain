@@ -55,6 +55,11 @@ the *models/* folder contains:
 * *rapidminer/*:
     * *output/*: csv output files of RapidMiner. one file for each seven categories, one for facilities, one for movie details.
     * *Process.rmp*: RapidMiner Project file
+
+## Procedure
+* load *Process.rmp* and run it. The output CSV files will appear on output folder.
+* 
+ 
 ## Team Members
 
 #### Model Subgroup
