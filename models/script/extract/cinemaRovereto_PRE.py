@@ -15,12 +15,7 @@ def fill_event(e):
 def rm_main():
 	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/cinemaRovereto.json'
 	obj = json.loads(requests.get(url).text)
-	info = {
-	    'location': "Piazza Rosmini 18/A. Rovereto (TN)",
-	    'contact': "0464 421216",
-	    'price': "8,50 €",
-	    'cinemaURL': "http://www.supercinemarovereto.it/"
-	}
+	info = {'location': "SuperCinema Rovereto (TN)", 'contact': "0464 421216", 'price': "8,50 €", 'cinemaURL': "http://www.supercinemarovereto.it/"}
 
 	movies = []
 	for movie in obj['movies']:
