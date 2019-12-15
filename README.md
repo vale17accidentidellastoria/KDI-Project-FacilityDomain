@@ -58,7 +58,8 @@ the *models/* folder contains:
 
 ## Procedure
 * load *Process.rmp* in RapidMiner and run it. The output CSV files will appear on output folder.
-* 
+* load each csv file in Karma and apply the relative r2rml found in /models/r2rml
+* export RDFs from Karma
 
 ## Team Members
 
