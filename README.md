@@ -25,10 +25,12 @@ The *formal-model/* folder contains:
  * *CSK_grounding.png* : a picture of the Top Level Grounding Diagram
  * *facilities_ontology.owl* : the OWL file containing the ontology about facilities and events
  * *ontology_img.png* : a picture that visualizes completely our ontology exported in png format
+ * *final_ontology.png* : a picture that visualizes the class hierarchy of the ontology (OWLViz)
  * *oops_evaluation.png* : the results about the ontology evaluated using OOPS! tool
  * *schemaorg_complete_ontology.owl* : Schema.org's complete ontology
  * *schemaorg_selected_classes.owl* : Schema.org's ontology containing only the classes needed to us for the top level grounding
  * *toplevel_grounding_facilities_ontology.owl* : the OWL file about the final top level grounding ontology 
+ * *final_top_level_grounding_picture.png* : a picture that visualizes the final top level grounding ontology (OWLViz)
  * *webvowl_ontology.svg* : a picture that visualizes completely our ontology exported in svg format (realized using WebVOWL)
 
 ## Team Members
