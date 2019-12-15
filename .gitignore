@@ -1,3 +1,4 @@
 .DS_Store
 models/script/Debug.py
 data.json
+models/rapidminer/debug.json

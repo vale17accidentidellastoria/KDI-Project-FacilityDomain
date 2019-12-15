@@ -70,7 +70,7 @@ def rm_main(JSONString):
 				for k, v in gen.items():
 					event[f'GEN_{k}'] = v
 				for k, v in time.items():
-					event[f'TIME_{k}'] = v
+					event[f'DATETIME_{k}'] = v
 				if subSubCategory not in events:
 					events[subSubCategory] = []
 				events[subSubCategory].append(event)
