@@ -44,25 +44,20 @@ The *data/* folder contains:
 
 the *script/* folder contains:
 
-   *extract/*:
-   * python files for extracting data from description 
+* *extract/*:
+ * python files for extracting data from description 
+* *format/*:
+ * python files for uniforming date and time
+* *structure/*:
+ * python files for converting the datasources' structure to desired structure
+* *movieDetails/*:
+ * python files for fetching Movie details 
+* *locations/*:
+ * python file for adding geolocation data
+* *merge/*:
+ * *merge.py*: python file for merge datasources to a single table
+ * *split_save.py*: python file to split the final dataset. seperated datasets for different categories.
 
-   *format/*:
-   * python files for uniforming date and time
-
-   *structure/*:
-   * python files for converting the datasources' structure to desired structure
-
-   *movieDetails/*:
-   * python files for fetching Movie details 
-
-   *locations/*:
-   * python file for adding geolocation data
-
-   *merge/*:
-   * *merge.py*: python file for merge datasources to a single table
-   * *split_save.py*: python file to split the final dataset. seperated datasets for different categories.
-   
 ## Team Members
 
 #### Model Subgroup
