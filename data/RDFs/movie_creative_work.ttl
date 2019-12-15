@@ -1,0 +1,1104 @@
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103'" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://en.wikipedia.org/wiki/Cetto_c'%C3%A8_senzadubbiamente" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//en.wikipedia.org/wiki/Cetto_c%27%25C3%25A8_senzadubbiamente> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'È, SENZADUBBIAMENTE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "122' - v.m.14 anni" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Joachim Rønning" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Maleficent_-_Signora_del_male" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Maleficent: Mistress of Evil" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "fantastico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Maleficent_-_Signora_del_male> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MALEFICENT - SIGNORA DEL MALE" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "V.O. MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "V.O. FROZEN II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Ayumu Watanabe" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "海獣の子供" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "I FIGLI DEL MARE (KAIJU NO KODOMO)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/I_figli_del_mare" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Ayumu Watanabe" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "海獣の子供" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "I FIGLI DEL MARE (KAIJU NO KODOMO)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/I_figli_del_mare" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Ayumu Watanabe" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "海獣の子供" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "I FIGLI DEL MARE (KAIJU NO KODOMO)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/I_figli_del_mare" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Ayumu Watanabe" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "海獣の子供" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "I FIGLI DEL MARE (KAIJU NO KODOMO)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/I_figli_del_mare> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/I_figli_del_mare" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 83" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "WESTERN STARS" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 83" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "WESTERN STARS" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 83" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "WESTERN STARS" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "MIDWAY" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "138 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roland Emmerich" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Midway_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Midway_(film_2019)" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE - 3D (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Frozen II" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "103 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "animazione" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "FROZEN II - IL SEGRETO DI ARENDELLE (FROZEN II)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Chris Buck" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Frozen_II_-_Il_segreto_di_Arendelle" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 91" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "CETTO C'E', SENZADUBBIAMENTE" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/L'ufficiale_e_la_spia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Roman Polański" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "132 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "L'UFFICIALE E LA SPIA (J'ACCUSE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "J'accuse" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/L%27ufficiale_e_la_spia> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "storico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "152 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "James Mangold" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Ford v Ferrari" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE MANS '66 - LA GRANDE SFIDA (FORD V. FERRARI)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_Mans_'66_-_La_grande_sfida" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_Mans_%2766_-_La_grande_sfida> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#url> "False" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "Durata: 86" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "AILO - UN'AVVENTURA TRA I GHIACCI (AILO: UNE ODYSSEE EN LAPONIE)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/unknown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Hustlers" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Lorene Scafaria" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "110 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE RAGAZZE DI WALL STREET (HUSTLERS)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "commedia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "Hustlers" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Lorene Scafaria" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "110 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LE RAGAZZE DI WALL STREET (HUSTLERS)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "commedia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Le_ragazze_di_Wall_Street_-_Business_Is_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "99 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "The Addams Family" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "commedia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "1991" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LA FAMIGLIA ADDAMS (THE ADDAMS FAMILY)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/La_famiglia_Addams_(film_1991)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Barry Sonnenfeld" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "99 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#originalName> "The Addams Family" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "commedia" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "1991" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "LA FAMIGLIA ADDAMS (THE ADDAMS FAMILY)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/La_famiglia_Addams_(film_1991)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/La_famiglia_Addams_%28film_1991%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Barry Sonnenfeld" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "123 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#createDate> "2019" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#MovieCreativeWork> .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieGenre> "drammatico" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#url> "https://it.wikipedia.org/wiki/Joker_(film_2019)" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creativeWorkName> "JOKER" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#movieDuration> "123 min" .
+<http://www.semanticweb.org/facilitiesEventsOntology/https%3A//it.wikipedia.org/wiki/Joker_%28film_2019%29> <http://www.semanticweb.org/facilitiesEventsOntology#creator> "Todd Phillips" .
+

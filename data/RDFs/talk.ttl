@@ -1,0 +1,19 @@
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#startDate> "21-11-19" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#price> "free" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#isDateTimeOf> <http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#TalkEvent> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#eventName> "Aspetti giuridici e responsabilità genitoriale della violenza domestica" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#startTime> "17:00" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#hasDatetime> <http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#hasSchedule> <http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/Schedule/Schedule_0> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#eventWebsite> "mart.trento.it/agenda.jsp" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#endDate> "21-11-19" .
+<http://www.semanticweb.org/facilitiesEventsOntology/Mart%2C%20Area%20educazione> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#GeoCoordinates> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#isLocatedIn> <http://www.semanticweb.org/facilitiesEventsOntology/Mart%2C%20Area%20educazione> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/Schedule/Schedule_0> <http://www.semanticweb.org/facilitiesEventsOntology#isScheduleOf> <http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/Schedule/Schedule_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#Schedule> .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> <http://www.semanticweb.org/facilitiesEventsOntology#description> "Falenablu propone una formazione con la scrittrice Agnello Hornby, in collaborazione con Aiaf Trento. Valida ai fini della formazione. Gratuito, prenotazione obbligatoria email: education@mart.trento.it." .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.semanticweb.org/facilitiesEventsOntology#endTime> "19:00" .
+<http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/DateTime/Datetime_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/facilitiesEventsOntology#DateTime> .
+<http://www.semanticweb.org/facilitiesEventsOntology/Mart%2C%20Area%20educazione> <http://www.semanticweb.org/facilitiesEventsOntology#isLocationOf> <http://www.semanticweb.org/facilitiesEventsOntology/TalkEvent/TalkEvent_0> .
+
