@@ -149,12 +149,12 @@ def rm_main(eventsJSON):
 
 	place_details_ALL()
 
-	#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_errors.json', 'w') as outfile:
-	#		json.dump(errors, outfile, indent="\t")
-	#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_details.json', 'w') as outfile:
-	#		json.dump(details_results, outfile, indent="\t")
-	#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_no_results.json', 'w') as outfile:
-	#		json.dump(no_results, outfile, indent="\t")
+	# with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_errors.json', 'w') as outfile:
+	# 	json.dump(errors, outfile, indent="\t")
+	# with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_details.json', 'w') as outfile:
+	# 	json.dump(details_results, outfile, indent="\t")
+	# with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/places_no_results.json', 'w') as outfile:
+	# 	json.dump(no_results, outfile, indent="\t")
 
 	for searched_name, result in details_results.items():
 		fac = {}
@@ -170,12 +170,16 @@ def rm_main(eventsJSON):
 		lng = result['geometry']['location']['lng']
 		altitude = ""
 		address = result['formatted_address']
-		addressLocality = next((a['long_name'] for a in result['address_components'] if 'locality' in a['types']))
-		addressRegion = next((a['long_name'] for a in result['address_components'] if 'administrative_area_level_2' in a['types']))
+		addressLocality = ""
+		addressRegion = ""
 		postalCode = ''
 		for comp in result['geocoded']['address_components']:
 			if 'postal_code' in comp['types']:
 				postalCode = comp['long_name']
+			if 'locality' in comp['types']:
+				addressLocality = comp['long_name']
+			if 'administrative_area_level_2' in comp['types']:
+				addressRegion = comp['long_name']
 		coordinates = GeoCoordinates(lat, lng, altitude, address, addressLocality, addressRegion, postalCode, text_to_URI([searched_name]))
 
 		timetable = {}
@@ -208,13 +212,16 @@ def rm_main(eventsJSON):
 			lng = location['lng']
 			altitude = ""
 			address = result['formatted_address']
-			addressLocality = "WHAT IS IT??"
-			addressRegion = "WHAT IS IT???"
-
+			addressLocality = ""
+			addressRegion = ""
 			postalCode = ''
 			for comp in result['address_components']:
 				if 'postal_code' in comp['types']:
 					postalCode = comp['long_name']
+				if 'locality' in comp['types']:
+					addressLocality = comp['long_name']
+				if 'administrative_area_level_2' in comp['types']:
+					addressRegion = comp['long_name']
 			coordinates = GeoCoordinates(lat, lng, altitude, address, addressLocality, addressRegion, postalCode, text_to_URI([searched_name]))
 
 			facility = {}
