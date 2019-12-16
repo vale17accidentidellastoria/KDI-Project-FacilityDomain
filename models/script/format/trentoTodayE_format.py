@@ -15,10 +15,10 @@ def rm_main(JSONString):
 	for event in obj:
 		dates = re.findall(r'\d\d/\d\d/\d\d\d\d', event['date'])
 		if len(set(dates)) == 1:
-			event['startDate'] = event['endDate'] = dates[0].replace('/', '-')
+			event['startDate'] = event['endDate'] = '-'.join(d.zfill(2) for d in dates[0].split('/')[::-1])
 		elif len(set(dates)) == 2:
-			event['startDate'] = dates[0].replace('/', '-')
-			event['endDate'] = dates[1].replace('/', '-')
+			event['startDate'] = '-'.join(d.zfill(2) for d in dates[0].split('/')[::-1])
+			event['endDate'] = '-'.join(d.zfill(2) for d in dates[1].split('/')[::-1])
 
 		if event['time'] in known_times:
 			event['time'] = known_times[event['time']]

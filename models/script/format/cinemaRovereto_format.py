@@ -22,6 +22,7 @@ def rm_main(JSONString):
 				day = re.findall(r'\d+\/\d+\/\d+', day)
 				day = day[0].replace('/', '-')
 				day = day[:6] + '20' + day[6:]
+				day = '-'.join(d.zfill(2) for d in day.split('-')[::-1])
 				times.append({"day": day, "hour": hour})
 		movie['time'] = times
 		movies.append(movie)

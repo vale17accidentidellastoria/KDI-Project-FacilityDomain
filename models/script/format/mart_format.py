@@ -19,7 +19,7 @@ def rm_main(JSONString):
 		event['time'] = time
 
 		date = re.findall(r'\d+\/\d+', event['date'])[0].replace('/', '-') + '-2019'
-		event['date'] = date
+		event['date'] = '-'.join(d.zfill(2) for d in date.split('-')[::-1])
 
 		events.append(event)
 	mart = events

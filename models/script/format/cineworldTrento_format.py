@@ -37,6 +37,7 @@ def rm_main(JSONString):
 				date = date + "-11-19"
 
 			date = date[:6] + '20' + date[6:]
+			date = '-'.join(d.zfill(2) for d in date.split('-')[::-1])
 			schedule['day'] = date
 			schedule['time'] = times
 			schedules.append(schedule)

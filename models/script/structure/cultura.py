@@ -37,9 +37,9 @@ def rm_main(JSONString):
 				subSubCategory = dictionary[subSubCategory]
 				location = e['comune'][0]['name'] + ", " + e['luogo_svolgimento'] + ", " + e['luogo_della_cultura'][0]['name']
 				starts = day['day']['identifier'].split('-')
-				startDate = f'{starts[2].zfill(2)}-{starts[1].zfill(2)}-{starts[0]}'
+				startDate = f'{starts[0]}-{starts[1].zfill(2)}-{starts[2].zfill(2)}'
 				ends = day['day']['identifier'].split('-')
-				endDate = f'{ends[2].zfill(2)}-{ends[1].zfill(2)}-{ends[0]}'
+				endDate = f'{ends[0]}-{ends[1].zfill(2)}-{ends[2].zfill(2)}'
 				startTime = ""
 				endTime = ""
 				time = e['orario_svolgimento']

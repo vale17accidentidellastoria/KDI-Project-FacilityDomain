@@ -37,14 +37,18 @@ def rm_main(JSONString):
 			if '-' in date:
 				for time in times:
 					date1 = date.split('-')[0].replace('/', '-')
+					date1 = '-'.join(d.zfill(2) for d in date1.split('-')[::-1])
 					if '2019' not in date1 and '2020' not in date1:
 						date1 = ""
+
 					date2 = date.split('-')[1].replace('/', '-')
+					date2 = '-'.join(d.zfill(2) for d in date2.split('-')[::-1])
 					if '2019' not in date2 and '2020' not in date2:
 						date2 = ""
 					times_with_dates.append(DateTime(date1, date2, time['startTime'], time['endTime']))
 			else:
 				date = date.replace('/', '-')
+				date = '-'.join(d.zfill(2) for d in date.split('-')[::-1])
 				if '2019' not in date and '2020' not in date:
 					date = ""
 				for time in times:
