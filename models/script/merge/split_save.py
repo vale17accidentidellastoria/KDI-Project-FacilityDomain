@@ -2,15 +2,15 @@ import json
 import requests
 from pandas import DataFrame
 
-utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
 exec(utils_txt)
 
 
 def rm_main(JSONstring):
 	events = json.loads(JSONstring)
 
-#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/output/UNIFIED.json', 'w') as outfile:
-#		json.dump(events, outfile, indent='\t')
+	#with open('C:/Users/andre/Desktop/kdi/scraping/KDI/output/UNIFIED.json', 'w') as outfile:
+	#	json.dump(events, outfile, indent='\t')
 
 	event_types = [general, science, visual, music, screen, theatre, talk]
 	for t in event_types:

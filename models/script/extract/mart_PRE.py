@@ -3,12 +3,12 @@ import pandas as pd
 import requests
 import re
 
-utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
 exec(utils_txt)
 
 
 def rm_main():
-	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/mart.json'
+	url = 'https://raw.githubusercontent.com/andreamatt/KDI/master/dataset/mart.json'
 	mart = json.loads(requests.get(url).text)
 
 	dictionary = {

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 import requests
 
-utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
 exec(utils_txt)
 
 

@@ -4,8 +4,8 @@ import requests
 
 
 def rm_main(JSONString):
-#	with open('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/DBG/format.json', 'w') as outfile:
-#		json.dump(json.loads(JSONString), outfile, indent="\t")
+	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/format.json', 'w') as outfile:
+		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	obj = json.loads(JSONString)
 	movies = []
@@ -17,9 +17,11 @@ def rm_main(JSONString):
 			for hour in hours:
 				hour = hour.replace(' ', '')
 				hour = hour.replace('.', ':')
+				hour += ':00'
 				day = dateAndTime['day']
 				day = re.findall(r'\d+\/\d+\/\d+', day)
-				day = day[0]
+				day = day[0].replace('/', '-')
+				day = day[:6] + '20' + day[6:]
 				times.append({"day": day, "hour": hour})
 		movie['time'] = times
 		movies.append(movie)

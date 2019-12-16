@@ -9,7 +9,7 @@ def fill_event(e):
 		e[f] = e.get(f, '').replace('\n', '; ')
 
 
-utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
 exec(utils_txt)
 
 cat_dict = {
@@ -31,7 +31,7 @@ def get_category(cat):
 
 
 def rm_main():
-	url = 'https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/data/trentoTodayE.json'
+	url = 'https://raw.githubusercontent.com/andreamatt/KDI/master/dataset/trentoTodayE.json'
 	obj = json.loads(requests.get(url).text)
 	events = [e for e in obj['events'] if 'Title' in e]
 	for event in events:

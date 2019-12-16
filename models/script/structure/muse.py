@@ -1,13 +1,13 @@
 import json
 import requests
 
-utils_txt = requests.get('https://raw.githubusercontent.com/vale17accidentidellastoria/KDI-Project-FacilityDomain/master/models/script/utils.py').text
+utils_txt = requests.get('https://raw.githubusercontent.com/andreamatt/KDI/all_fields/scripts/utils.py').text
 exec(utils_txt)
 
 
 def rm_main(JSONString):
-#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/structure.json', 'w') as outfile:
-#		json.dump(json.loads(JSONString), outfile, indent="\t")
+	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/structure.json', 'w') as outfile:
+		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	muse = json.loads(JSONString)
 	events = {}
@@ -21,8 +21,11 @@ def rm_main(JSONString):
 
 		times = []
 		for time in e['time']:
+			time = time.replace('.', ':')
 			if '-' in time:
-				times.append(DateTime('', '', time.split('-')[0], time.split('-')[1]))
+				times.append(DateTime('', '', time.split('-')[0] + ':00', time.split('-')[1] + ':00' if time.split('-')[1] != "" else ""))
+			elif time != "":
+				times.append(DateTime('', '', time + ':00', ''))
 			else:
 				times.append(DateTime('', '', time, ''))
 
@@ -33,8 +36,17 @@ def rm_main(JSONString):
 		for date in e['when']:
 			if '-' in date:
 				for time in times:
-					times_with_dates.append(DateTime(date.split('-')[0], date.split('-')[1], time['startTime'], time['endTime']))
+					date1 = date.split('-')[0].replace('/', '-')
+					if '2019' not in date1 and '2020' not in date1:
+						date1 = ""
+					date2 = date.split('-')[1].replace('/', '-')
+					if '2019' not in date2 and '2020' not in date2:
+						date2 = ""
+					times_with_dates.append(DateTime(date1, date2, time['startTime'], time['endTime']))
 			else:
+				date = date.replace('/', '-')
+				if '2019' not in date and '2020' not in date:
+					date = ""
 				for time in times:
 					times_with_dates.append(DateTime(date, date, time['startTime'], time['endTime']))
 

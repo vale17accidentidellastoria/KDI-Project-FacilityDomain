@@ -4,8 +4,8 @@ import re
 
 
 def rm_main(JSONString):
-#	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/format.json', 'w') as outfile:
-#		json.dump(json.loads(JSONString), outfile, indent="\t")
+	with open('C:/Users/andre/Desktop/kdi/scraping/KDI/DBG/format.json', 'w') as outfile:
+		json.dump(json.loads(JSONString), outfile, indent="\t")
 
 	obj = json.loads(JSONString)
 	movies = []
@@ -15,7 +15,7 @@ def rm_main(JSONString):
 			times = []
 			for time in schedule['time']:
 				hour = re.findall(r'\d+:\d+', time['hour'])
-				hour = hour[0]
+				hour = hour[0] + ':00'
 				time['hour'] = hour
 				duration = re.findall(r'\d+', movie['length'])[0]
 				end = datetime.timedelta(hours=int(hour[0:2]), minutes=int(hour[3:5])) + datetime.timedelta(minutes=int(duration))
@@ -25,6 +25,7 @@ def rm_main(JSONString):
 				if end[0] == '0':
 					end = '0' + end
 				end = end[0:5]
+				end += ':00'
 				time['hour'] += "-" + end
 				times.append(time)
 			date = schedule['day']
@@ -34,6 +35,8 @@ def rm_main(JSONString):
 				date = date + "-12-19"
 			else:
 				date = date + "-11-19"
+
+			date = date[:6] + '20' + date[6:]
 			schedule['day'] = date
 			schedule['time'] = times
 			schedules.append(schedule)
